@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Tarahan\\OneDrive\\Desktop\\AI\\pyamaze-main\\pyamaze\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6198662-C5F6-4895-9FB9-E5DFF5753A6B}|PythonApplication1.pyproj|C:\\Users\\Tarahan\\OneDrive\\Desktop\\AI\\pyamaze-main\\pyamaze\\PythonApplication1.py||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{B6198662-C5F6-4895-9FB9-E5DFF5753A6B}|PythonApplication1.pyproj|solutionrelative:PythonApplication1.py||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PythonApplication1.py",
+              "DocumentMoniker": "C:\\Users\\Tarahan\\OneDrive\\Desktop\\AI\\pyamaze-main\\pyamaze\\PythonApplication1.py",
+              "RelativeDocumentMoniker": "PythonApplication1.py",
+              "ToolTip": "C:\\Users\\Tarahan\\OneDrive\\Desktop\\AI\\pyamaze-main\\pyamaze\\PythonApplication1.py",
+              "RelativeToolTip": "PythonApplication1.py",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAnwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2024-09-30T23:33:48.13Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
